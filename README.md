@@ -1,5 +1,5 @@
 # Fake-News-NLP-Classification
-A classification project to test the four different of existing classifiers on an ML model for detecting text-based fake news.
+A classification project to test the efficiency of four different classifiers in an NLP model for detecting text-based fake news.
 
 ## Comparative Analysis of Four Classifiers for Discerning Authenticity in News Articles
 The intentional dissemination of false information poses a significant danger to human society by exacerbating pre-existing tensions, deepening socioeconomic inequalities, and fueling physical violence. Given the intricacies and complexities of human language, training and evaluating machine learning models for classification tasks, such as identifying fake news, are among the most challenging endeavors. In this project, we aim to construct and evaluate a model capable of predicting fabricated news articles using this accessible [kaggle dataset](https://www.kaggle.com/competitions/fake-news/overview).
