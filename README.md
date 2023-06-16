@@ -7,7 +7,7 @@ The intentional dissemination of false information poses a significant danger to
 The models included in the code are:
 1. Passive Aggressive Classifier
 2. Linear Suport Vector Machine
-3. Linear Regression Model
+3. Logistic Regression Model
 4. Naive-Bayes Classification
 
 ## Inference
